@@ -93,7 +93,12 @@
     },
     {
         "id": 2,
-        "namaSurat": "Al-Baqarah",
+        "namaSurat": [
+            "Al-Baqarah",
+            "Al-Baqarah",
+            "Al-Baqarah",
+            "Al-Baqarah"
+        ],
         "artiNamaSurat": "Sapi Betina",
         "turun": "Madaniyah",
         "jumlahAyat": "286",
@@ -981,7 +986,12 @@
     },
     {
         "id": 3,
-        "namaSurat": "Ali Imran",
+        "namaSurat": [
+            "Ali Imran",
+            "Ali Imran",
+            "Ali Imran",
+            "Ali Imran"
+        ],
         "artiNamaSurat": "Keluarga 'Imran",
         "turun": "Madaniyah",
         "jumlahAyat": "200",
@@ -1611,7 +1621,12 @@
     },
     {
         "id": 4,
-        "namaSurat": "An-Nisa",
+        "namaSurat": [
+            "An-Nisa",
+            "An-Nisa",
+            "An-Nisa",
+            "An-Nisa"
+        ],
         "artiNamaSurat": "Wanita",
         "turun": "Madaniyah",
         "jumlahAyat": "176",
@@ -2169,7 +2184,12 @@
     },
     {
         "id": 5,
-        "namaSurat": "Al-Ma'idah",
+        "namaSurat": [
+            "Al-Ma'idah",
+            "Al-Ma'idah",
+            "Al-Ma'idah",
+            "Al-Ma'idah"
+        ],
         "artiNamaSurat": "Jamuan (hidangan makanan)",
         "turun": "Madaniyah",
         "jumlahAyat": "120",
@@ -2559,7 +2579,12 @@
     },
     {
         "id": 6,
-        "namaSurat": "Al-An'am",
+        "namaSurat": [
+            "Al-An'am",
+            "Al-An'am",
+            "Al-An'am",
+            "Al-An'am"
+        ],
         "artiNamaSurat": "Hewan Ternak",
         "turun": "Makiyah",
         "jumlahAyat": "165",
@@ -3084,7 +3109,12 @@
     },
     {
         "id": 7,
-        "namaSurat": "Al-A'raf",
+        "namaSurat": [
+            "Al-A'raf",
+            "Al-A'raf",
+            "Al-A'raf",
+            "Al-A'raf"
+        ],
         "artiNamaSurat": "Tempat yang tertinggi",
         "turun": "Makiyah",
         "jumlahAyat": "206",
@@ -3732,7 +3762,12 @@
     },
     {
         "id": 8,
-        "namaSurat": "Al-Anfal",
+        "namaSurat": [
+            "Al-Anfal",
+            "Al-Anfal",
+            "Al-Anfal",
+            "Al-Anfal"
+        ],
         "artiNamaSurat": "Harta rampasan perang",
         "turun": "Madaniyah",
         "jumlahAyat": "75",
@@ -3987,7 +4022,12 @@
     },
     {
         "id": 9,
-        "namaSurat": "At-Taubah",
+        "namaSurat": [
+            "At-Taubah",
+            "At-Taubah",
+            "At-Taubah",
+            "At-Taubah"
+        ],
         "artiNamaSurat": "Pengampunan",
         "turun": "Madaniyah",
         "jumlahAyat": "129",
@@ -4404,7 +4444,12 @@
     },
     {
         "id": 10,
-        "namaSurat": "Yunus",
+        "namaSurat": [
+            "Yunus",
+            "Yunus",
+            "Yunus",
+            "Yunus"
+        ],
         "artiNamaSurat": "Nabi Yunus",
         "turun": "Makiyah",
         "jumlahAyat": "109",
@@ -4761,7 +4806,12 @@
     },
     {
         "id": 11,
-        "namaSurat": "Hud",
+        "namaSurat": [
+            "Hud",
+            "Hud",
+            "Hud",
+            "Hud"
+        ],
         "artiNamaSurat": "Nabi Hud",
         "turun": "Makiyah",
         "jumlahAyat": "123",
@@ -5160,7 +5210,12 @@
     },
     {
         "id": 12,
-        "namaSurat": "Yusuf",
+        "namaSurat": [
+            "Yusuf",
+            "Yusuf",
+            "Yusuf",
+            "Yusuf"
+        ],
         "artiNamaSurat": "Nabi Yusuf",
         "turun": "Makiyah",
         "jumlahAyat": "111",
@@ -5523,7 +5578,12 @@
     },
     {
         "id": 13,
-        "namaSurat": "Ar-Ra'ad",
+        "namaSurat": [
+            "Ar-Ra'ad",
+            "Ar-Ra'ad",
+            "Ar-Ra'ad",
+            "Ar-Ra'ad"
+        ],
         "artiNamaSurat": "Guruh (petir)",
         "turun": "Makiyah",
         "jumlahAyat": "43",
@@ -5682,7 +5742,12 @@
     },
     {
         "id": 14,
-        "namaSurat": "Ibrahim",
+        "namaSurat": [
+            "Ibrahim",
+            "Ibrahim",
+            "Ibrahim",
+            "Ibrahim"
+        ],
         "artiNamaSurat": "Nabi Ibrahim",
         "turun": "Makiyah",
         "jumlahAyat": "52",
@@ -5868,7 +5933,12 @@
     },
     {
         "id": 15,
-        "namaSurat": "Al-Hijr",
+        "namaSurat": [
+            "Al-Hijr",
+            "Al-Hijr",
+            "Al-Hijr",
+            "Al-Hijr"
+        ],
         "artiNamaSurat": "Gunung Al Hijr",
         "turun": "Makiyah",
         "jumlahAyat": "99",
@@ -6195,7 +6265,12 @@
     },
     {
         "id": 16,
-        "namaSurat": "An-Nahl",
+        "namaSurat": [
+            "An-Nahl",
+            "An-Nahl",
+            "An-Nahl",
+            "An-Nahl"
+        ],
         "artiNamaSurat": "Lebah",
         "turun": "Makiyah",
         "jumlahAyat": "128",
@@ -6609,7 +6684,12 @@
     },
     {
         "id": 17,
-        "namaSurat": "Al-Isra'",
+        "namaSurat": [
+            "Al-Isra'",
+            "Al-Isra'",
+            "Al-Isra'",
+            "Al-Isra'"
+        ],
         "artiNamaSurat": "Perjalanan Malam",
         "turun": "Makiyah",
         "jumlahAyat": "111",
@@ -6972,7 +7052,12 @@
     },
     {
         "id": 18,
-        "namaSurat": "Al-Kahfi",
+        "namaSurat": [
+            "Al-Kahfi",
+            "Al-Kahfi",
+            "Al-Kahfi",
+            "Al-Kahfi"
+        ],
         "artiNamaSurat": "Penghuni-penghuni Gua",
         "turun": "Makiyah",
         "jumlahAyat": "110",
@@ -7332,7 +7417,12 @@
     },
     {
         "id": 19,
-        "namaSurat": "Maryam",
+        "namaSurat": [
+            "Maryam",
+            "Maryam",
+            "Maryam",
+            "Maryam"
+        ],
         "artiNamaSurat": "Maryam (Maria)",
         "turun": "Makiyah",
         "jumlahAyat": "98",
@@ -7656,7 +7746,12 @@
     },
     {
         "id": 20,
-        "namaSurat": "Ta Ha",
+        "namaSurat": [
+            "Ta Ha",
+            "Ta Ha",
+            "Ta Ha",
+            "Ta Ha"
+        ],
         "artiNamaSurat": "Ta Ha",
         "turun": "Makiyah",
         "jumlahAyat": "135",
@@ -8091,7 +8186,12 @@
     },
     {
         "id": 21,
-        "namaSurat": "Al-Anbiya'",
+        "namaSurat": [
+            "Al-Anbiya'",
+            "Al-Anbiya'",
+            "Al-Anbiya'",
+            "Al-Anbiya'"
+        ],
         "artiNamaSurat": "Para Nabi",
         "turun": "Makiyah",
         "jumlahAyat": "112",
@@ -8457,7 +8557,12 @@
     },
     {
         "id": 22,
-        "namaSurat": "Al-Hajj",
+        "namaSurat": [
+            "Al-Hajj",
+            "Al-Hajj",
+            "Al-Hajj",
+            "Al-Hajj"
+        ],
         "artiNamaSurat": "Haji",
         "turun": "Madinah & Makkah",
         "jumlahAyat": "78",
@@ -8721,7 +8826,12 @@
     },
     {
         "id": 23,
-        "namaSurat": "Al-Mu'minun",
+        "namaSurat": [
+            "Al-Mu'minun",
+            "Al-Mu'minun",
+            "Al-Mu'minun",
+            "Al-Mu'minun"
+        ],
         "artiNamaSurat": "Orang-orang Beriman",
         "turun": "Makiyah",
         "jumlahAyat": "118",
@@ -9105,7 +9215,12 @@
     },
     {
         "id": 24,
-        "namaSurat": "An-Nur",
+        "namaSurat": [
+            "An-Nur",
+            "An-Nur",
+            "An-Nur",
+            "An-Nur"
+        ],
         "artiNamaSurat": "Cahaya",
         "turun": "Madaniyah",
         "jumlahAyat": "64",
@@ -9327,7 +9442,12 @@
     },
     {
         "id": 25,
-        "namaSurat": "Al-Furqan",
+        "namaSurat": [
+            "Al-Furqan",
+            "Al-Furqan",
+            "Al-Furqan",
+            "Al-Furqan"
+        ],
         "artiNamaSurat": "Pembeda",
         "turun": "Makiyah",
         "jumlahAyat": "77",
@@ -9588,7 +9708,12 @@
     },
     {
         "id": 26,
-        "namaSurat": "Asy-Syu'ara",
+        "namaSurat": [
+            "Asy-Syu'ara",
+            "Asy-Syu'ara",
+            "Asy-Syu'ara",
+            "Asy-Syu'ara"
+        ],
         "artiNamaSurat": "Penyair",
         "turun": "Makiyah",
         "jumlahAyat": "227",
@@ -10299,7 +10424,12 @@
     },
     {
         "id": 27,
-        "namaSurat": "An-Naml",
+        "namaSurat": [
+            "An-Naml",
+            "An-Naml",
+            "An-Naml",
+            "An-Naml"
+        ],
         "artiNamaSurat": "Semut",
         "turun": "Makiyah",
         "jumlahAyat": "93",
@@ -10608,7 +10738,12 @@
     },
     {
         "id": 28,
-        "namaSurat": "Al-Qasas",
+        "namaSurat": [
+            "Al-Qasas",
+            "Al-Qasas",
+            "Al-Qasas",
+            "Al-Qasas"
+        ],
         "artiNamaSurat": "Kisah",
         "turun": "Makiyah",
         "jumlahAyat": "88",
@@ -10902,7 +11037,12 @@
     },
     {
         "id": 29,
-        "namaSurat": "Al-Ankabut",
+        "namaSurat": [
+            "Al-Ankabut",
+            "Al-Ankabut",
+            "Al-Ankabut",
+            "Al-Ankabut"
+        ],
         "artiNamaSurat": "Laba-laba",
         "turun": "Makiyah",
         "jumlahAyat": "69",
@@ -11139,7 +11279,12 @@
     },
     {
         "id": 30,
-        "namaSurat": "Ar-Rum",
+        "namaSurat": [
+            "Ar-Rum",
+            "Ar-Rum",
+            "Ar-Rum",
+            "Ar-Rum"
+        ],
         "artiNamaSurat": "Bangsa Romawi",
         "turun": "Makiyah",
         "jumlahAyat": "60",
@@ -11349,7 +11494,12 @@
     },
     {
         "id": 31,
-        "namaSurat": "Luqman",
+        "namaSurat": [
+            "Luqman",
+            "Luqman",
+            "Luqman",
+            "Luqman"
+        ],
         "artiNamaSurat": "Keluarga Luqman",
         "turun": "Makiyah",
         "jumlahAyat": "34",
@@ -11481,7 +11631,12 @@
     },
     {
         "id": 32,
-        "namaSurat": "As-Sajdah",
+        "namaSurat": [
+            "As-Sajdah",
+            "As-Sajdah",
+            "As-Sajdah",
+            "As-Sajdah"
+        ],
         "artiNamaSurat": "Sajdah",
         "turun": "Makiyah",
         "jumlahAyat": "30",
@@ -11601,7 +11756,12 @@
     },
     {
         "id": 33,
-        "namaSurat": "Al-Ahzab",
+        "namaSurat": [
+            "Al-Ahzab",
+            "Al-Ahzab",
+            "Al-Ahzab",
+            "Al-Ahzab"
+        ],
         "artiNamaSurat": "Golongan-Golongan yang bersekutu",
         "turun": "Madaniyah",
         "jumlahAyat": "73",
@@ -11850,7 +12010,12 @@
     },
     {
         "id": 34,
-        "namaSurat": "Saba'",
+        "namaSurat": [
+            "Saba'",
+            "Saba'",
+            "Saba'",
+            "Saba'"
+        ],
         "artiNamaSurat": "Kaum Saba'",
         "turun": "Makiyah",
         "jumlahAyat": "54",
@@ -12042,7 +12207,12 @@
     },
     {
         "id": 35,
-        "namaSurat": "Fathir",
+        "namaSurat": [
+            "Fathir",
+            "Fathir",
+            "Fathir",
+            "Fathir"
+        ],
         "artiNamaSurat": "Pencipta",
         "turun": "Makiyah",
         "jumlahAyat": "45",
@@ -12207,7 +12377,12 @@
     },
     {
         "id": 36,
-        "namaSurat": "Ya Sin",
+        "namaSurat": [
+            "Ya Sin",
+            "Ya Sin",
+            "Ya Sin",
+            "Ya Sin"
+        ],
         "artiNamaSurat": "Ya Sin",
         "turun": "Makiyah",
         "jumlahAyat": "83",
@@ -12486,7 +12661,12 @@
     },
     {
         "id": 37,
-        "namaSurat": "As-Saffat",
+        "namaSurat": [
+            "As-Saffat",
+            "As-Saffat",
+            "As-Saffat",
+            "As-Saffat"
+        ],
         "artiNamaSurat": "Barisan-barisan",
         "turun": "Makiyah",
         "jumlahAyat": "182",
@@ -13062,7 +13242,12 @@
     },
     {
         "id": 38,
-        "namaSurat": "Shaad",
+        "namaSurat": [
+            "Shaad",
+            "Shaad",
+            "Shaad",
+            "Shaad"
+        ],
         "artiNamaSurat": "Shaad",
         "turun": "Makiyah",
         "jumlahAyat": "88",
@@ -13356,7 +13541,12 @@
     },
     {
         "id": 39,
-        "namaSurat": "Az-Zumar",
+        "namaSurat": [
+            "Az-Zumar",
+            "Az-Zumar",
+            "Az-Zumar",
+            "Az-Zumar"
+        ],
         "artiNamaSurat": "Rombongan-rombongan",
         "turun": "Makiyah",
         "jumlahAyat": "75",
@@ -13611,7 +13801,12 @@
     },
     {
         "id": 40,
-        "namaSurat": "Al-Ghafir",
+        "namaSurat": [
+            "Al-Ghafir",
+            "Al-Ghafir",
+            "Al-Ghafir",
+            "Al-Ghafir"
+        ],
         "artiNamaSurat": "Ghafir",
         "turun": "Yang Mengampuni",
         "jumlahAyat": "85",
@@ -13896,7 +14091,12 @@
     },
     {
         "id": 41,
-        "namaSurat": "Al-Fussilat",
+        "namaSurat": [
+            "Al-Fussilat",
+            "Al-Fussilat",
+            "Al-Fussilat",
+            "Al-Fussilat"
+        ],
         "artiNamaSurat": "Yang Dijelaskan",
         "turun": "Makiyah",
         "jumlahAyat": "54",
@@ -14088,7 +14288,12 @@
     },
     {
         "id": 42,
-        "namaSurat": "Asy-Syura",
+        "namaSurat": [
+            "Asy-Syura",
+            "Asy-Syura",
+            "Asy-Syura",
+            "Asy-Syura"
+        ],
         "artiNamaSurat": "Musyawarah",
         "turun": "Makiyah",
         "jumlahAyat": "53",
@@ -14277,7 +14482,12 @@
     },
     {
         "id": 43,
-        "namaSurat": "Az-Zukhruf",
+        "namaSurat": [
+            "Az-Zukhruf",
+            "Az-Zukhruf",
+            "Az-Zukhruf",
+            "Az-Zukhruf"
+        ],
         "artiNamaSurat": "Perhiasan",
         "turun": "Makiyah",
         "jumlahAyat": "89",
@@ -14574,7 +14784,12 @@
     },
     {
         "id": 44,
-        "namaSurat": "Ad-Dukhan",
+        "namaSurat": [
+            "Ad-Dukhan",
+            "Ad-Dukhan",
+            "Ad-Dukhan",
+            "Ad-Dukhan"
+        ],
         "artiNamaSurat": "Kabut",
         "turun": "Makiyah",
         "jumlahAyat": "59",
@@ -14781,7 +14996,12 @@
     },
     {
         "id": 45,
-        "namaSurat": "Al-Jaṡiyah",
+        "namaSurat": [
+            "Al-Jaṡiyah",
+            "Al-Jaṡiyah",
+            "Al-Jaṡiyah",
+            "Al-Jaṡiyah"
+        ],
         "artiNamaSurat": "Yang Bertekuk Lutut",
         "turun": "Makiyah",
         "jumlahAyat": "37",
@@ -14922,7 +15142,12 @@
     },
     {
         "id": 46,
-        "namaSurat": "Al-Ahqaf",
+        "namaSurat": [
+            "Al-Ahqaf",
+            "Al-Ahqaf",
+            "Al-Ahqaf",
+            "Al-Ahqaf"
+        ],
         "artiNamaSurat": "Bukit-Bukit Pasir",
         "turun": "Makiyah",
         "jumlahAyat": "35",
@@ -15057,7 +15282,12 @@
     },
     {
         "id": 47,
-        "namaSurat": "Muhammad",
+        "namaSurat": [
+            "Muhammad",
+            "Muhammad",
+            "Muhammad",
+            "Muhammad"
+        ],
         "artiNamaSurat": "Nabi Muhammad",
         "turun": "Madaniyah",
         "jumlahAyat": "38",
@@ -15201,7 +15431,12 @@
     },
     {
         "id": 48,
-        "namaSurat": "Al-Fath",
+        "namaSurat": [
+            "Al-Fath",
+            "Al-Fath",
+            "Al-Fath",
+            "Al-Fath"
+        ],
         "artiNamaSurat": "Kemenangan",
         "turun": "Madaniyah",
         "jumlahAyat": "29",
@@ -15318,7 +15553,12 @@
     },
     {
         "id": 49,
-        "namaSurat": "Al-Hujurat",
+        "namaSurat": [
+            "Al-Hujurat",
+            "Al-Hujurat",
+            "Al-Hujurat",
+            "Al-Hujurat"
+        ],
         "artiNamaSurat": "Kamar-Kamar",
         "turun": "Madaniyah",
         "jumlahAyat": "18",
@@ -15402,7 +15642,12 @@
     },
     {
         "id": 50,
-        "namaSurat": "Qaf",
+        "namaSurat": [
+            "Qaf",
+            "Qaf",
+            "Qaf",
+            "Qaf"
+        ],
         "artiNamaSurat": "Qaf",
         "turun": "Makiyah",
         "jumlahAyat": "45",
@@ -15567,7 +15812,12 @@
     },
     {
         "id": 51,
-        "namaSurat": "Adz-Dzariyat",
+        "namaSurat": [
+            "Adz-Dzariyat",
+            "Adz-Dzariyat",
+            "Adz-Dzariyat",
+            "Adz-Dzariyat"
+        ],
         "artiNamaSurat": "Angin Yang Menerbangkan",
         "turun": "Makiyah",
         "jumlahAyat": "60",
@@ -15777,7 +16027,12 @@
     },
     {
         "id": 52,
-        "namaSurat": "At-Tur",
+        "namaSurat": [
+            "At-Tur",
+            "At-Tur",
+            "At-Tur",
+            "At-Tur"
+        ],
         "artiNamaSurat": "Bukit",
         "turun": "Makiyah",
         "jumlahAyat": "49",
@@ -15954,7 +16209,12 @@
     },
     {
         "id": 53,
-        "namaSurat": "An-Najm",
+        "namaSurat": [
+            "An-Najm",
+            "An-Najm",
+            "An-Najm",
+            "An-Najm"
+        ],
         "artiNamaSurat": "Bintang",
         "turun": "Makiyah",
         "jumlahAyat": "62",
@@ -16170,7 +16430,12 @@
     },
     {
         "id": 54,
-        "namaSurat": "Al-Qamar",
+        "namaSurat": [
+            "Al-Qamar",
+            "Al-Qamar",
+            "Al-Qamar",
+            "Al-Qamar"
+        ],
         "artiNamaSurat": "Rembulan",
         "turun": "Makiyah",
         "jumlahAyat": "55",
@@ -16365,7 +16630,12 @@
     },
     {
         "id": 55,
-        "namaSurat": "Ar-Rahman",
+        "namaSurat": [
+            "Ar-Rahman",
+            "Ar-Rahman",
+            "Ar-Rahman",
+            "Ar-Rahman"
+        ],
         "artiNamaSurat": "Yang Maha Pemurah",
         "turun": "Madinah & Mekkah",
         "jumlahAyat": "78",
@@ -16629,7 +16899,12 @@
     },
     {
         "id": 56,
-        "namaSurat": "Al-Waqi'ah",
+        "namaSurat": [
+            "Al-Waqi'ah",
+            "Al-Waqi'ah",
+            "Al-Waqi'ah",
+            "Al-Waqi'ah"
+        ],
         "artiNamaSurat": "Hari Kiamat",
         "turun": "Makiyah",
         "jumlahAyat": "96",
@@ -16947,7 +17222,12 @@
     },
     {
         "id": 57,
-        "namaSurat": "Al-Hadid",
+        "namaSurat": [
+            "Al-Hadid",
+            "Al-Hadid",
+            "Al-Hadid",
+            "Al-Hadid"
+        ],
         "artiNamaSurat": "Besi",
         "turun": "Madaniyah",
         "jumlahAyat": "29",
@@ -17064,7 +17344,12 @@
     },
     {
         "id": 58,
-        "namaSurat": "Al-Mujadilah",
+        "namaSurat": [
+            "Al-Mujadilah",
+            "Al-Mujadilah",
+            "Al-Mujadilah",
+            "Al-Mujadilah"
+        ],
         "artiNamaSurat": "Wanita Yang Mengajukan Gugatan",
         "turun": "Madaniyah",
         "jumlahAyat": "22",
@@ -17160,7 +17445,12 @@
     },
     {
         "id": 59,
-        "namaSurat": "Al-Hasyr",
+        "namaSurat": [
+            "Al-Hasyr",
+            "Al-Hasyr",
+            "Al-Hasyr",
+            "Al-Hasyr"
+        ],
         "artiNamaSurat": "Pengusiran",
         "turun": "Madaniyah",
         "jumlahAyat": "24",
@@ -17262,7 +17552,12 @@
     },
     {
         "id": 60,
-        "namaSurat": "Al-Mumtahanah",
+        "namaSurat": [
+            "Al-Mumtahanah",
+            "Al-Mumtahanah",
+            "Al-Mumtahanah",
+            "Al-Mumtahanah"
+        ],
         "artiNamaSurat": "Wanita yang diuji",
         "turun": "Madaniyah",
         "jumlahAyat": "13",
@@ -17331,7 +17626,12 @@
     },
     {
         "id": 61,
-        "namaSurat": "Ash-Shaff",
+        "namaSurat": [
+            "Ash-Shaff",
+            "Ash-Shaff",
+            "Ash-Shaff",
+            "Ash-Shaff"
+        ],
         "artiNamaSurat": "Satu barisan",
         "turun": "Madaniyah",
         "jumlahAyat": "14",
@@ -17403,7 +17703,12 @@
     },
     {
         "id": 62,
-        "namaSurat": "Al-Jumu'ah",
+        "namaSurat": [
+            "Al-Jumu'ah",
+            "Al-Jumu'ah",
+            "Al-Jumu'ah",
+            "Al-Jumu'ah"
+        ],
         "artiNamaSurat": "Hari Jum’at",
         "turun": "Madaniyah",
         "jumlahAyat": "11",
@@ -17466,7 +17771,12 @@
     },
     {
         "id": 63,
-        "namaSurat": "Al-Munafiqun",
+        "namaSurat": [
+            "Al-Munafiqun",
+            "Al-Munafiqun",
+            "Al-Munafiqun",
+            "Al-Munafiqun"
+        ],
         "artiNamaSurat": "Orang-Orang Yang Munafik",
         "turun": "Madaniyah",
         "jumlahAyat": "11",
@@ -17529,7 +17839,12 @@
     },
     {
         "id": 64,
-        "namaSurat": "At-Taghabun",
+        "namaSurat": [
+            "At-Taghabun",
+            "At-Taghabun",
+            "At-Taghabun",
+            "At-Taghabun"
+        ],
         "artiNamaSurat": "Hari dinampakkan kesalahan-kesalahan",
         "turun": "Madaniyah",
         "jumlahAyat": "18",
@@ -17613,7 +17928,12 @@
     },
     {
         "id": 65,
-        "namaSurat": "At-Thalaq",
+        "namaSurat": [
+            "At-Thalaq",
+            "At-Thalaq",
+            "At-Thalaq",
+            "At-Thalaq"
+        ],
         "artiNamaSurat": "Talak",
         "turun": "Madaniyah",
         "jumlahAyat": "12",
@@ -17679,7 +17999,12 @@
     },
     {
         "id": 66,
-        "namaSurat": "At-Tahrim",
+        "namaSurat": [
+            "At-Tahrim",
+            "At-Tahrim",
+            "At-Tahrim",
+            "At-Tahrim"
+        ],
         "artiNamaSurat": "Mengharamkan",
         "turun": "Madaniyah",
         "jumlahAyat": "12",
@@ -17745,7 +18070,12 @@
     },
     {
         "id": 67,
-        "namaSurat": "Al-Mulk",
+        "namaSurat": [
+            "Al-Mulk",
+            "Al-Mulk",
+            "Al-Mulk",
+            "Al-Mulk"
+        ],
         "artiNamaSurat": "Kerajaan",
         "turun": "Makiyah",
         "jumlahAyat": "30",
@@ -17865,7 +18195,12 @@
     },
     {
         "id": 68,
-        "namaSurat": "Al-Qalam",
+        "namaSurat": [
+            "Al-Qalam",
+            "Al-Qalam",
+            "Al-Qalam",
+            "Al-Qalam"
+        ],
         "artiNamaSurat": "Pena",
         "turun": "Makiyah",
         "jumlahAyat": "52",
@@ -18051,7 +18386,12 @@
     },
     {
         "id": 69,
-        "namaSurat": "Al-Haqqah",
+        "namaSurat": [
+            "Al-Haqqah",
+            "Al-Haqqah",
+            "Al-Haqqah",
+            "Al-Haqqah"
+        ],
         "artiNamaSurat": "Hari kiamat",
         "turun": "Makiyah",
         "jumlahAyat": "52",
@@ -18237,7 +18577,12 @@
     },
     {
         "id": 70,
-        "namaSurat": "Al-Ma'arij",
+        "namaSurat": [
+            "Al-Ma'arij",
+            "Al-Ma'arij",
+            "Al-Ma'arij",
+            "Al-Ma'arij"
+        ],
         "artiNamaSurat": "Tempat naik",
         "turun": "Makiyah",
         "jumlahAyat": "44",
@@ -18399,7 +18744,12 @@
     },
     {
         "id": 71,
-        "namaSurat": "Nuh",
+        "namaSurat": [
+            "Nuh",
+            "Nuh",
+            "Nuh",
+            "Nuh"
+        ],
         "artiNamaSurat": "Nabi Nuh",
         "turun": "Makiyah",
         "jumlahAyat": "28",
@@ -18513,7 +18863,12 @@
     },
     {
         "id": 72,
-        "namaSurat": "Al-Jin",
+        "namaSurat": [
+            "Al-Jin",
+            "Al-Jin",
+            "Al-Jin",
+            "Al-Jin"
+        ],
         "artiNamaSurat": "Jin",
         "turun": "Makiyah",
         "jumlahAyat": "28",
@@ -18627,7 +18982,12 @@
     },
     {
         "id": 73,
-        "namaSurat": "Al-Muzzamil",
+        "namaSurat": [
+            "Al-Muzzamil",
+            "Al-Muzzamil",
+            "Al-Muzzamil",
+            "Al-Muzzamil"
+        ],
         "artiNamaSurat": "Orang yang berselimut",
         "turun": "Makiyah",
         "jumlahAyat": "20",
@@ -18717,7 +19077,12 @@
     },
     {
         "id": 74,
-        "namaSurat": "Al-Muddassir",
+        "namaSurat": [
+            "Al-Muddassir",
+            "Al-Muddassir",
+            "Al-Muddassir",
+            "Al-Muddassir"
+        ],
         "artiNamaSurat": "Orang Yang Berkemul",
         "turun": "Makiyah",
         "jumlahAyat": "56",
@@ -18915,7 +19280,12 @@
     },
     {
         "id": 75,
-        "namaSurat": "Al-Qiyamah",
+        "namaSurat": [
+            "Al-Qiyamah",
+            "Al-Qiyamah",
+            "Al-Qiyamah",
+            "Al-Qiyamah"
+        ],
         "artiNamaSurat": "Kiamat",
         "turun": "Makiyah",
         "jumlahAyat": "40",
@@ -19065,7 +19435,12 @@
     },
     {
         "id": 76,
-        "namaSurat": "Al-Insan",
+        "namaSurat": [
+            "Al-Insan",
+            "Al-Insan",
+            "Al-Insan",
+            "Al-Insan"
+        ],
         "artiNamaSurat": "Manusia",
         "turun": "Madaniyah",
         "jumlahAyat": "31",
@@ -19188,7 +19563,12 @@
     },
     {
         "id": 77,
-        "namaSurat": "Al-Mursalat",
+        "namaSurat": [
+            "Al-Mursalat",
+            "Al-Mursalat",
+            "Al-Mursalat",
+            "Al-Mursalat"
+        ],
         "artiNamaSurat": "Malaikat-Malaikat Yang Diutus",
         "turun": "Makiyah",
         "jumlahAyat": "50",
