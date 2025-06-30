@@ -99,8 +99,18 @@
             "Al-Baqarah",
             "Al-Baqarah"
         ],
-        "artiNamaSurat": "Sapi Betina",
-        "turun": "Madaniyah",
+        "artiNamaSurat": [
+            "Sapi Betina",
+            "Sapi Betina",
+            "Sapi Betina",
+            "Sapi Betina"
+        ],
+        "turun": [
+            "Madaniyah",
+            "Madaniyah",
+            "Madaniyah",
+            "Madaniyah"
+        ],
         "jumlahAyat": "286",
         "kode": "$",
         "ayat": [
@@ -992,8 +1002,18 @@
             "Ali Imran",
             "Ali Imran"
         ],
-        "artiNamaSurat": "Keluarga 'Imran",
-        "turun": "Madaniyah",
+        "artiNamaSurat": [
+            "Keluarga 'Imran",
+            "Keluarga 'Imran",
+            "Keluarga 'Imran",
+            "Keluarga 'Imran"
+        ],
+        "turun": [
+            "Madaniyah",
+            "Madaniyah",
+            "Madaniyah",
+            "Madaniyah"
+        ],
         "jumlahAyat": "200",
         "kode": "%",
         "ayat": [
@@ -1627,8 +1647,18 @@
             "An-Nisa",
             "An-Nisa"
         ],
-        "artiNamaSurat": "Wanita",
-        "turun": "Madaniyah",
+        "artiNamaSurat": [
+            "Wanita",
+            "Wanita",
+            "Wanita",
+            "Wanita"
+        ],
+        "turun": [
+            "Madaniyah",
+            "Madaniyah",
+            "Madaniyah",
+            "Madaniyah"
+        ],
         "jumlahAyat": "176",
         "kode": "&",
         "ayat": [
@@ -2190,8 +2220,18 @@
             "Al-Ma'idah",
             "Al-Ma'idah"
         ],
-        "artiNamaSurat": "Jamuan (hidangan makanan)",
-        "turun": "Madaniyah",
+        "artiNamaSurat": [
+            "Jamuan (hidangan makanan)",
+            "Jamuan (hidangan makanan)",
+            "Jamuan (hidangan makanan)",
+            "Jamuan (hidangan makanan)"
+        ],
+        "turun": [
+            "Madaniyah",
+            "Madaniyah",
+            "Madaniyah",
+            "Madaniyah"
+        ],
         "jumlahAyat": "120",
         "kode": "'",
         "ayat": [
@@ -2585,8 +2625,18 @@
             "Al-An'am",
             "Al-An'am"
         ],
-        "artiNamaSurat": "Hewan Ternak",
-        "turun": "Makiyah",
+        "artiNamaSurat": [
+            "Hewan Ternak",
+            "Hewan Ternak",
+            "Hewan Ternak",
+            "Hewan Ternak"
+        ],
+        "turun": [
+            "Makiyah",
+            "Makiyah",
+            "Makiyah",
+            "Makiyah"
+        ],
         "jumlahAyat": "165",
         "kode": "(",
         "ayat": [
@@ -3115,8 +3165,18 @@
             "Al-A'raf",
             "Al-A'raf"
         ],
-        "artiNamaSurat": "Tempat yang tertinggi",
-        "turun": "Makiyah",
+        "artiNamaSurat": [
+            "Tempat yang tertinggi",
+            "Tempat yang tertinggi",
+            "Tempat yang tertinggi",
+            "Tempat yang tertinggi"
+        ],
+        "turun": [
+            "Makiyah",
+            "Makiyah",
+            "Makiyah",
+            "Makiyah"
+        ],
         "jumlahAyat": "206",
         "kode": ")",
         "ayat": [
@@ -3768,8 +3828,18 @@
             "Al-Anfal",
             "Al-Anfal"
         ],
-        "artiNamaSurat": "Harta rampasan perang",
-        "turun": "Madaniyah",
+        "artiNamaSurat": [
+            "Harta rampasan perang",
+            "Harta rampasan perang",
+            "Harta rampasan perang",
+            "Harta rampasan perang"
+        ],
+        "turun": [
+            "Madaniyah",
+            "Madaniyah",
+            "Madaniyah",
+            "Madaniyah"
+        ],
         "jumlahAyat": "75",
         "kode": "*",
         "ayat": [
@@ -4028,8 +4098,18 @@
             "At-Taubah",
             "At-Taubah"
         ],
-        "artiNamaSurat": "Pengampunan",
-        "turun": "Madaniyah",
+        "artiNamaSurat": [
+            "Pengampunan",
+            "Pengampunan",
+            "Pengampunan",
+            "Pengampunan"
+        ],
+        "turun": [
+            "Madaniyah",
+            "Madaniyah",
+            "Madaniyah",
+            "Madaniyah"
+        ],
         "jumlahAyat": "129",
         "kode": "+",
         "ayat": [
@@ -4450,8 +4530,18 @@
             "Yunus",
             "Yunus"
         ],
-        "artiNamaSurat": "Nabi Yunus",
-        "turun": "Makiyah",
+        "artiNamaSurat": [
+            "Nabi Yunus",
+            "Nabi Yunus",
+            "Nabi Yunus",
+            "Nabi Yunus"
+        ],
+        "turun": [
+            "Makiyah",
+            "Makiyah",
+            "Makiyah",
+            "Makiyah"
+        ],
         "jumlahAyat": "109",
         "kode": ",",
         "ayat": [
@@ -4812,8 +4902,18 @@
             "Hud",
             "Hud"
         ],
-        "artiNamaSurat": "Nabi Hud",
-        "turun": "Makiyah",
+        "artiNamaSurat": [
+            "Nabi Hud",
+            "Nabi Hud",
+            "Nabi Hud",
+            "Nabi Hud"
+        ],
+        "turun": [
+            "Makiyah",
+            "Makiyah",
+            "Makiyah",
+            "Makiyah"
+        ],
         "jumlahAyat": "123",
         "kode": "-",
         "ayat": [
@@ -5216,8 +5316,18 @@
             "Yusuf",
             "Yusuf"
         ],
-        "artiNamaSurat": "Nabi Yusuf",
-        "turun": "Makiyah",
+        "artiNamaSurat": [
+            "Nabi Yusuf",
+            "Nabi Yusuf",
+            "Nabi Yusuf",
+            "Nabi Yusuf"
+        ],
+        "turun": [
+            "Makiyah",
+            "Makiyah",
+            "Makiyah",
+            "Makiyah"
+        ],
         "jumlahAyat": "111",
         "kode": ".",
         "ayat": [
@@ -5584,8 +5694,18 @@
             "Ar-Ra'ad",
             "Ar-Ra'ad"
         ],
-        "artiNamaSurat": "Guruh (petir)",
-        "turun": "Makiyah",
+        "artiNamaSurat": [
+            "Guruh (petir)",
+            "Guruh (petir)",
+            "Guruh (petir)",
+            "Guruh (petir)"
+        ],
+        "turun": [
+            "Makiyah",
+            "Makiyah",
+            "Makiyah",
+            "Makiyah"
+        ],
         "jumlahAyat": "43",
         "kode": "/",
         "ayat": [
@@ -5748,8 +5868,18 @@
             "Ibrahim",
             "Ibrahim"
         ],
-        "artiNamaSurat": "Nabi Ibrahim",
-        "turun": "Makiyah",
+        "artiNamaSurat": [
+            "Nabi Ibrahim",
+            "Nabi Ibrahim",
+            "Nabi Ibrahim",
+            "Nabi Ibrahim"
+        ],
+        "turun": [
+            "Makiyah",
+            "Makiyah",
+            "Makiyah",
+            "Makiyah"
+        ],
         "jumlahAyat": "52",
         "kode": "0",
         "ayat": [
@@ -5939,8 +6069,18 @@
             "Al-Hijr",
             "Al-Hijr"
         ],
-        "artiNamaSurat": "Gunung Al Hijr",
-        "turun": "Makiyah",
+        "artiNamaSurat": [
+            "Gunung Al Hijr",
+            "Gunung Al Hijr",
+            "Gunung Al Hijr",
+            "Gunung Al Hijr"
+        ],
+        "turun": [
+            "Makiyah",
+            "Makiyah",
+            "Makiyah",
+            "Makiyah"
+        ],
         "jumlahAyat": "99",
         "kode": "1",
         "ayat": [
@@ -6271,8 +6411,18 @@
             "An-Nahl",
             "An-Nahl"
         ],
-        "artiNamaSurat": "Lebah",
-        "turun": "Makiyah",
+        "artiNamaSurat": [
+            "Lebah",
+            "Lebah",
+            "Lebah",
+            "Lebah"
+        ],
+        "turun": [
+            "Makiyah",
+            "Makiyah",
+            "Makiyah",
+            "Makiyah"
+        ],
         "jumlahAyat": "128",
         "kode": "2",
         "ayat": [
@@ -6690,8 +6840,18 @@
             "Al-Isra'",
             "Al-Isra'"
         ],
-        "artiNamaSurat": "Perjalanan Malam",
-        "turun": "Makiyah",
+        "artiNamaSurat": [
+            "Perjalanan Malam",
+            "Perjalanan Malam",
+            "Perjalanan Malam",
+            "Perjalanan Malam"
+        ],
+        "turun": [
+            "Makiyah",
+            "Makiyah",
+            "Makiyah",
+            "Makiyah"
+        ],
         "jumlahAyat": "111",
         "kode": "B",
         "ayat": [
@@ -7058,8 +7218,18 @@
             "Al-Kahfi",
             "Al-Kahfi"
         ],
-        "artiNamaSurat": "Penghuni-penghuni Gua",
-        "turun": "Makiyah",
+        "artiNamaSurat": [
+            "Penghuni-penghuni Gua",
+            "Penghuni-penghuni Gua",
+            "Penghuni-penghuni Gua",
+            "Penghuni-penghuni Gua"
+        ],
+        "turun": [
+            "Makiyah",
+            "Makiyah",
+            "Makiyah",
+            "Makiyah"
+        ],
         "jumlahAyat": "110",
         "kode": "4",
         "ayat": [
@@ -7423,8 +7593,18 @@
             "Maryam",
             "Maryam"
         ],
-        "artiNamaSurat": "Maryam (Maria)",
-        "turun": "Makiyah",
+        "artiNamaSurat": [
+            "Maryam (Maria)",
+            "Maryam (Maria)",
+            "Maryam (Maria)",
+            "Maryam (Maria)"
+        ],
+        "turun": [
+            "Makiyah",
+            "Makiyah",
+            "Makiyah",
+            "Makiyah"
+        ],
         "jumlahAyat": "98",
         "kode": "5",
         "ayat": [
@@ -7752,8 +7932,18 @@
             "Ta Ha",
             "Ta Ha"
         ],
-        "artiNamaSurat": "Ta Ha",
-        "turun": "Makiyah",
+        "artiNamaSurat": [
+            "Ta Ha",
+            "Ta Ha",
+            "Ta Ha",
+            "Ta Ha"
+        ],
+        "turun": [
+            "Makiyah",
+            "Makiyah",
+            "Makiyah",
+            "Makiyah"
+        ],
         "jumlahAyat": "135",
         "kode": "6",
         "ayat": [
@@ -8192,8 +8382,18 @@
             "Al-Anbiya'",
             "Al-Anbiya'"
         ],
-        "artiNamaSurat": "Para Nabi",
-        "turun": "Makiyah",
+        "artiNamaSurat": [
+            "Para Nabi",
+            "Para Nabi",
+            "Para Nabi",
+            "Para Nabi"
+        ],
+        "turun": [
+            "Makiyah",
+            "Makiyah",
+            "Makiyah",
+            "Makiyah"
+        ],
         "jumlahAyat": "112",
         "kode": "7",
         "ayat": [
@@ -8563,8 +8763,18 @@
             "Al-Hajj",
             "Al-Hajj"
         ],
-        "artiNamaSurat": "Haji",
-        "turun": "Madinah & Makkah",
+        "artiNamaSurat": [
+            "Haji",
+            "Haji",
+            "Haji",
+            "Haji"
+        ],
+        "turun": [
+            "Madinah & Makkah",
+            "Madinah & Makkah",
+            "Madinah & Makkah",
+            "Madinah & Makkah"
+        ],
         "jumlahAyat": "78",
         "kode": "8",
         "ayat": [
@@ -8832,8 +9042,18 @@
             "Al-Mu'minun",
             "Al-Mu'minun"
         ],
-        "artiNamaSurat": "Orang-orang Beriman",
-        "turun": "Makiyah",
+        "artiNamaSurat": [
+            "Orang-orang Beriman",
+            "Orang-orang Beriman",
+            "Orang-orang Beriman",
+            "Orang-orang Beriman"
+        ],
+        "turun": [
+            "Makiyah",
+            "Makiyah",
+            "Makiyah",
+            "Makiyah"
+        ],
         "jumlahAyat": "118",
         "kode": "9",
         "ayat": [
@@ -9221,8 +9441,18 @@
             "An-Nur",
             "An-Nur"
         ],
-        "artiNamaSurat": "Cahaya",
-        "turun": "Madaniyah",
+        "artiNamaSurat": [
+            "Cahaya",
+            "Cahaya",
+            "Cahaya",
+            "Cahaya"
+        ],
+        "turun": [
+            "Madaniyah",
+            "Madaniyah",
+            "Madaniyah",
+            "Madaniyah"
+        ],
         "jumlahAyat": "64",
         "kode": ":",
         "ayat": [
@@ -9448,8 +9678,18 @@
             "Al-Furqan",
             "Al-Furqan"
         ],
-        "artiNamaSurat": "Pembeda",
-        "turun": "Makiyah",
+        "artiNamaSurat": [
+            "Pembeda",
+            "Pembeda",
+            "Pembeda",
+            "Pembeda"
+        ],
+        "turun": [
+            "Makiyah",
+            "Makiyah",
+            "Makiyah",
+            "Makiyah"
+        ],
         "jumlahAyat": "77",
         "kode": ";",
         "ayat": [
@@ -9714,8 +9954,18 @@
             "Asy-Syu'ara",
             "Asy-Syu'ara"
         ],
-        "artiNamaSurat": "Penyair",
-        "turun": "Makiyah",
+        "artiNamaSurat": [
+            "Penyair",
+            "Penyair",
+            "Penyair",
+            "Penyair"
+        ],
+        "turun": [
+            "Makiyah",
+            "Makiyah",
+            "Makiyah",
+            "Makiyah"
+        ],
         "jumlahAyat": "227",
         "kode": "<",
         "ayat": [
@@ -10430,8 +10680,18 @@
             "An-Naml",
             "An-Naml"
         ],
-        "artiNamaSurat": "Semut",
-        "turun": "Makiyah",
+        "artiNamaSurat": [
+            "Semut",
+            "Semut",
+            "Semut",
+            "Semut"
+        ],
+        "turun": [
+            "Makiyah",
+            "Makiyah",
+            "Makiyah",
+            "Makiyah"
+        ],
         "jumlahAyat": "93",
         "kode": "=",
         "ayat": [
@@ -10744,8 +11004,18 @@
             "Al-Qasas",
             "Al-Qasas"
         ],
-        "artiNamaSurat": "Kisah",
-        "turun": "Makiyah",
+        "artiNamaSurat": [
+            "Kisah",
+            "Kisah",
+            "Kisah",
+            "Kisah"
+        ],
+        "turun": [
+            "Makiyah",
+            "Makiyah",
+            "Makiyah",
+            "Makiyah"
+        ],
         "jumlahAyat": "88",
         "kode": ">",
         "ayat": [
@@ -11043,8 +11313,18 @@
             "Al-Ankabut",
             "Al-Ankabut"
         ],
-        "artiNamaSurat": "Laba-laba",
-        "turun": "Makiyah",
+        "artiNamaSurat": [
+            "Laba-laba",
+            "Laba-laba",
+            "Laba-laba",
+            "Laba-laba"
+        ],
+        "turun": [
+            "Makiyah",
+            "Makiyah",
+            "Makiyah",
+            "Makiyah"
+        ],
         "jumlahAyat": "69",
         "kode": "?",
         "ayat": [
@@ -11285,8 +11565,18 @@
             "Ar-Rum",
             "Ar-Rum"
         ],
-        "artiNamaSurat": "Bangsa Romawi",
-        "turun": "Makiyah",
+        "artiNamaSurat": [
+            "Bangsa Romawi",
+            "Bangsa Romawi",
+            "Bangsa Romawi",
+            "Bangsa Romawi"
+        ],
+        "turun": [
+            "Makiyah",
+            "Makiyah",
+            "Makiyah",
+            "Makiyah"
+        ],
         "jumlahAyat": "60",
         "kode": "@",
         "ayat": [
@@ -11500,8 +11790,18 @@
             "Luqman",
             "Luqman"
         ],
-        "artiNamaSurat": "Keluarga Luqman",
-        "turun": "Makiyah",
+        "artiNamaSurat": [
+            "Keluarga Luqman",
+            "Keluarga Luqman",
+            "Keluarga Luqman",
+            "Keluarga Luqman"
+        ],
+        "turun": [
+            "Makiyah",
+            "Makiyah",
+            "Makiyah",
+            "Makiyah"
+        ],
         "jumlahAyat": "34",
         "kode": "A",
         "ayat": [
@@ -11637,8 +11937,18 @@
             "As-Sajdah",
             "As-Sajdah"
         ],
-        "artiNamaSurat": "Sajdah",
-        "turun": "Makiyah",
+        "artiNamaSurat": [
+            "Sajdah",
+            "Sajdah",
+            "Sajdah",
+            "Sajdah"
+        ],
+        "turun": [
+            "Makiyah",
+            "Makiyah",
+            "Makiyah",
+            "Makiyah"
+        ],
         "jumlahAyat": "30",
         "kode": "B",
         "ayat": [
@@ -11762,8 +12072,18 @@
             "Al-Ahzab",
             "Al-Ahzab"
         ],
-        "artiNamaSurat": "Golongan-Golongan yang bersekutu",
-        "turun": "Madaniyah",
+        "artiNamaSurat": [
+            "Golongan-Golongan yang bersekutu",
+            "Golongan-Golongan yang bersekutu",
+            "Golongan-Golongan yang bersekutu",
+            "Golongan-Golongan yang bersekutu"
+        ],
+        "turun": [
+            "Madaniyah",
+            "Madaniyah",
+            "Madaniyah",
+            "Madaniyah"
+        ],
         "jumlahAyat": "73",
         "kode": "C",
         "ayat": [
@@ -12016,8 +12336,18 @@
             "Saba'",
             "Saba'"
         ],
-        "artiNamaSurat": "Kaum Saba'",
-        "turun": "Makiyah",
+        "artiNamaSurat": [
+            "Kaum Saba'",
+            "Kaum Saba'",
+            "Kaum Saba'",
+            "Kaum Saba'"
+        ],
+        "turun": [
+            "Makiyah",
+            "Makiyah",
+            "Makiyah",
+            "Makiyah"
+        ],
         "jumlahAyat": "54",
         "kode": "D",
         "ayat": [
@@ -12213,8 +12543,18 @@
             "Fathir",
             "Fathir"
         ],
-        "artiNamaSurat": "Pencipta",
-        "turun": "Makiyah",
+        "artiNamaSurat": [
+            "Pencipta",
+            "Pencipta",
+            "Pencipta",
+            "Pencipta"
+        ],
+        "turun": [
+            "Makiyah",
+            "Makiyah",
+            "Makiyah",
+            "Makiyah"
+        ],
         "jumlahAyat": "45",
         "kode": "E",
         "ayat": [
@@ -12383,8 +12723,18 @@
             "Ya Sin",
             "Ya Sin"
         ],
-        "artiNamaSurat": "Ya Sin",
-        "turun": "Makiyah",
+        "artiNamaSurat": [
+            "Ya Sin",
+            "Ya Sin",
+            "Ya Sin",
+            "Ya Sin"
+        ],
+        "turun": [
+            "Makiyah",
+            "Makiyah",
+            "Makiyah",
+            "Makiyah"
+        ],
         "jumlahAyat": "83",
         "kode": "F",
         "ayat": [
@@ -12667,8 +13017,18 @@
             "As-Saffat",
             "As-Saffat"
         ],
-        "artiNamaSurat": "Barisan-barisan",
-        "turun": "Makiyah",
+        "artiNamaSurat": [
+            "Barisan-barisan",
+            "Barisan-barisan",
+            "Barisan-barisan",
+            "Barisan-barisan"
+        ],
+        "turun": [
+            "Makiyah",
+            "Makiyah",
+            "Makiyah",
+            "Makiyah"
+        ],
         "jumlahAyat": "182",
         "kode": "G",
         "ayat": [
@@ -13248,8 +13608,18 @@
             "Shaad",
             "Shaad"
         ],
-        "artiNamaSurat": "Shaad",
-        "turun": "Makiyah",
+        "artiNamaSurat": [
+            "Shaad",
+            "Shaad",
+            "Shaad",
+            "Shaad"
+        ],
+        "turun": [
+            "Makiyah",
+            "Makiyah",
+            "Makiyah",
+            "Makiyah"
+        ],
         "jumlahAyat": "88",
         "kode": "H",
         "ayat": [
@@ -13547,8 +13917,18 @@
             "Az-Zumar",
             "Az-Zumar"
         ],
-        "artiNamaSurat": "Rombongan-rombongan",
-        "turun": "Makiyah",
+        "artiNamaSurat": [
+            "Rombongan-rombongan",
+            "Rombongan-rombongan",
+            "Rombongan-rombongan",
+            "Rombongan-rombongan"
+        ],
+        "turun": [
+            "Makiyah",
+            "Makiyah",
+            "Makiyah",
+            "Makiyah"
+        ],
         "jumlahAyat": "75",
         "kode": "I",
         "ayat": [
@@ -13807,8 +14187,18 @@
             "Al-Ghafir",
             "Al-Ghafir"
         ],
-        "artiNamaSurat": "Ghafir",
-        "turun": "Yang Mengampuni",
+        "artiNamaSurat": [
+            "Ghafir",
+            "Ghafir",
+            "Ghafir",
+            "Ghafir"
+        ],
+        "turun": [
+            "Yang Mengampuni",
+            "Yang Mengampuni",
+            "Yang Mengampuni",
+            "Yang Mengampuni"
+        ],
         "jumlahAyat": "85",
         "kode": "J",
         "ayat": [
@@ -14097,8 +14487,18 @@
             "Al-Fussilat",
             "Al-Fussilat"
         ],
-        "artiNamaSurat": "Yang Dijelaskan",
-        "turun": "Makiyah",
+        "artiNamaSurat": [
+            "Yang Dijelaskan",
+            "Yang Dijelaskan",
+            "Yang Dijelaskan",
+            "Yang Dijelaskan"
+        ],
+        "turun": [
+            "Makiyah",
+            "Makiyah",
+            "Makiyah",
+            "Makiyah"
+        ],
         "jumlahAyat": "54",
         "kode": "K",
         "ayat": [
@@ -14294,8 +14694,18 @@
             "Asy-Syura",
             "Asy-Syura"
         ],
-        "artiNamaSurat": "Musyawarah",
-        "turun": "Makiyah",
+        "artiNamaSurat": [
+            "Musyawarah",
+            "Musyawarah",
+            "Musyawarah",
+            "Musyawarah"
+        ],
+        "turun": [
+            "Makiyah",
+            "Makiyah",
+            "Makiyah",
+            "Makiyah"
+        ],
         "jumlahAyat": "53",
         "kode": "L",
         "ayat": [
@@ -14488,8 +14898,18 @@
             "Az-Zukhruf",
             "Az-Zukhruf"
         ],
-        "artiNamaSurat": "Perhiasan",
-        "turun": "Makiyah",
+        "artiNamaSurat": [
+            "Perhiasan",
+            "Perhiasan",
+            "Perhiasan",
+            "Perhiasan"
+        ],
+        "turun": [
+            "Makiyah",
+            "Makiyah",
+            "Makiyah",
+            "Makiyah"
+        ],
         "jumlahAyat": "89",
         "kode": "M",
         "ayat": [
@@ -14790,8 +15210,18 @@
             "Ad-Dukhan",
             "Ad-Dukhan"
         ],
-        "artiNamaSurat": "Kabut",
-        "turun": "Makiyah",
+        "artiNamaSurat": [
+            "Kabut",
+            "Kabut",
+            "Kabut",
+            "Kabut"
+        ],
+        "turun": [
+            "Makiyah",
+            "Makiyah",
+            "Makiyah",
+            "Makiyah"
+        ],
         "jumlahAyat": "59",
         "kode": "N",
         "ayat": [
@@ -15002,8 +15432,18 @@
             "Al-Jaṡiyah",
             "Al-Jaṡiyah"
         ],
-        "artiNamaSurat": "Yang Bertekuk Lutut",
-        "turun": "Makiyah",
+        "artiNamaSurat": [
+            "Yang Bertekuk Lutut",
+            "Yang Bertekuk Lutut",
+            "Yang Bertekuk Lutut",
+            "Yang Bertekuk Lutut"
+        ],
+        "turun": [
+            "Makiyah",
+            "Makiyah",
+            "Makiyah",
+            "Makiyah"
+        ],
         "jumlahAyat": "37",
         "kode": "O",
         "ayat": [
@@ -15148,8 +15588,18 @@
             "Al-Ahqaf",
             "Al-Ahqaf"
         ],
-        "artiNamaSurat": "Bukit-Bukit Pasir",
-        "turun": "Makiyah",
+        "artiNamaSurat": [
+            "Bukit-Bukit Pasir",
+            "Bukit-Bukit Pasir",
+            "Bukit-Bukit Pasir",
+            "Bukit-Bukit Pasir"
+        ],
+        "turun": [
+            "Makiyah",
+            "Makiyah",
+            "Makiyah",
+            "Makiyah"
+        ],
         "jumlahAyat": "35",
         "kode": "P",
         "ayat": [
@@ -15288,8 +15738,18 @@
             "Muhammad",
             "Muhammad"
         ],
-        "artiNamaSurat": "Nabi Muhammad",
-        "turun": "Madaniyah",
+        "artiNamaSurat": [
+            "Nabi Muhammad",
+            "Nabi Muhammad",
+            "Nabi Muhammad",
+            "Nabi Muhammad"
+        ],
+        "turun": [
+            "Madaniyah",
+            "Madaniyah",
+            "Madaniyah",
+            "Madaniyah"
+        ],
         "jumlahAyat": "38",
         "kode": "Q",
         "ayat": [
@@ -15437,8 +15897,18 @@
             "Al-Fath",
             "Al-Fath"
         ],
-        "artiNamaSurat": "Kemenangan",
-        "turun": "Madaniyah",
+        "artiNamaSurat": [
+            "Kemenangan",
+            "Kemenangan",
+            "Kemenangan",
+            "Kemenangan"
+        ],
+        "turun": [
+            "Madaniyah",
+            "Madaniyah",
+            "Madaniyah",
+            "Madaniyah"
+        ],
         "jumlahAyat": "29",
         "kode": "R",
         "ayat": [
@@ -15559,8 +16029,18 @@
             "Al-Hujurat",
             "Al-Hujurat"
         ],
-        "artiNamaSurat": "Kamar-Kamar",
-        "turun": "Madaniyah",
+        "artiNamaSurat": [
+            "Kamar-Kamar",
+            "Kamar-Kamar",
+            "Kamar-Kamar",
+            "Kamar-Kamar"
+        ],
+        "turun": [
+            "Madaniyah",
+            "Madaniyah",
+            "Madaniyah",
+            "Madaniyah"
+        ],
         "jumlahAyat": "18",
         "kode": "S",
         "ayat": [
@@ -15648,8 +16128,18 @@
             "Qaf",
             "Qaf"
         ],
-        "artiNamaSurat": "Qaf",
-        "turun": "Makiyah",
+        "artiNamaSurat": [
+            "Qaf",
+            "Qaf",
+            "Qaf",
+            "Qaf"
+        ],
+        "turun": [
+            "Makiyah",
+            "Makiyah",
+            "Makiyah",
+            "Makiyah"
+        ],
         "jumlahAyat": "45",
         "kode": "T",
         "ayat": [
@@ -15818,8 +16308,18 @@
             "Adz-Dzariyat",
             "Adz-Dzariyat"
         ],
-        "artiNamaSurat": "Angin Yang Menerbangkan",
-        "turun": "Makiyah",
+        "artiNamaSurat": [
+            "Angin Yang Menerbangkan",
+            "Angin Yang Menerbangkan",
+            "Angin Yang Menerbangkan",
+            "Angin Yang Menerbangkan"
+        ],
+        "turun": [
+            "Makiyah",
+            "Makiyah",
+            "Makiyah",
+            "Makiyah"
+        ],
         "jumlahAyat": "60",
         "kode": "U",
         "ayat": [
@@ -16033,8 +16533,18 @@
             "At-Tur",
             "At-Tur"
         ],
-        "artiNamaSurat": "Bukit",
-        "turun": "Makiyah",
+        "artiNamaSurat": [
+            "Bukit",
+            "Bukit",
+            "Bukit",
+            "Bukit"
+        ],
+        "turun": [
+            "Makiyah",
+            "Makiyah",
+            "Makiyah",
+            "Makiyah"
+        ],
         "jumlahAyat": "49",
         "kode": "V",
         "ayat": [
@@ -16215,8 +16725,18 @@
             "An-Najm",
             "An-Najm"
         ],
-        "artiNamaSurat": "Bintang",
-        "turun": "Makiyah",
+        "artiNamaSurat": [
+            "Bintang",
+            "Bintang",
+            "Bintang",
+            "Bintang"
+        ],
+        "turun": [
+            "Makiyah",
+            "Makiyah",
+            "Makiyah",
+            "Makiyah"
+        ],
         "jumlahAyat": "62",
         "kode": "W",
         "ayat": [
@@ -16436,8 +16956,18 @@
             "Al-Qamar",
             "Al-Qamar"
         ],
-        "artiNamaSurat": "Rembulan",
-        "turun": "Makiyah",
+        "artiNamaSurat": [
+            "Rembulan",
+            "Rembulan",
+            "Rembulan",
+            "Rembulan"
+        ],
+        "turun": [
+            "Makiyah",
+            "Makiyah",
+            "Makiyah",
+            "Makiyah"
+        ],
         "jumlahAyat": "55",
         "kode": "X",
         "ayat": [
@@ -16636,8 +17166,18 @@
             "Ar-Rahman",
             "Ar-Rahman"
         ],
-        "artiNamaSurat": "Yang Maha Pemurah",
-        "turun": "Madinah & Mekkah",
+        "artiNamaSurat": [
+            "Yang Maha Pemurah",
+            "Yang Maha Pemurah",
+            "Yang Maha Pemurah",
+            "Yang Maha Pemurah"
+        ],
+        "turun": [
+            "Madinah & Mekkah",
+            "Madinah & Mekkah",
+            "Madinah & Mekkah",
+            "Madinah & Mekkah"
+        ],
         "jumlahAyat": "78",
         "kode": "Y",
         "ayat": [
@@ -16905,8 +17445,18 @@
             "Al-Waqi'ah",
             "Al-Waqi'ah"
         ],
-        "artiNamaSurat": "Hari Kiamat",
-        "turun": "Makiyah",
+        "artiNamaSurat": [
+            "Hari Kiamat",
+            "Hari Kiamat",
+            "Hari Kiamat",
+            "Hari Kiamat"
+        ],
+        "turun": [
+            "Makiyah",
+            "Makiyah",
+            "Makiyah",
+            "Makiyah"
+        ],
         "jumlahAyat": "96",
         "kode": "Z",
         "ayat": [
@@ -17228,8 +17778,18 @@
             "Al-Hadid",
             "Al-Hadid"
         ],
-        "artiNamaSurat": "Besi",
-        "turun": "Madaniyah",
+        "artiNamaSurat": [
+            "Besi",
+            "Besi",
+            "Besi",
+            "Besi"
+        ],
+        "turun": [
+            "Madaniyah",
+            "Madaniyah",
+            "Madaniyah",
+            "Madaniyah"
+        ],
         "jumlahAyat": "29",
         "kode": "[",
         "ayat": [
@@ -17350,8 +17910,18 @@
             "Al-Mujadilah",
             "Al-Mujadilah"
         ],
-        "artiNamaSurat": "Wanita Yang Mengajukan Gugatan",
-        "turun": "Madaniyah",
+        "artiNamaSurat": [
+            "Wanita Yang Mengajukan Gugatan",
+            "Wanita Yang Mengajukan Gugatan",
+            "Wanita Yang Mengajukan Gugatan",
+            "Wanita Yang Mengajukan Gugatan"
+        ],
+        "turun": [
+            "Madaniyah",
+            "Madaniyah",
+            "Madaniyah",
+            "Madaniyah"
+        ],
         "jumlahAyat": "22",
         "kode": "\\",
         "ayat": [
@@ -17451,8 +18021,18 @@
             "Al-Hasyr",
             "Al-Hasyr"
         ],
-        "artiNamaSurat": "Pengusiran",
-        "turun": "Madaniyah",
+        "artiNamaSurat": [
+            "Pengusiran",
+            "Pengusiran",
+            "Pengusiran",
+            "Pengusiran"
+        ],
+        "turun": [
+            "Madaniyah",
+            "Madaniyah",
+            "Madaniyah",
+            "Madaniyah"
+        ],
         "jumlahAyat": "24",
         "kode": "]",
         "ayat": [
@@ -17558,8 +18138,18 @@
             "Al-Mumtahanah",
             "Al-Mumtahanah"
         ],
-        "artiNamaSurat": "Wanita yang diuji",
-        "turun": "Madaniyah",
+        "artiNamaSurat": [
+            "Wanita yang diuji",
+            "Wanita yang diuji",
+            "Wanita yang diuji",
+            "Wanita yang diuji"
+        ],
+        "turun": [
+            "Madaniyah",
+            "Madaniyah",
+            "Madaniyah",
+            "Madaniyah"
+        ],
         "jumlahAyat": "13",
         "kode": "^",
         "ayat": [
@@ -17632,8 +18222,18 @@
             "Ash-Shaff",
             "Ash-Shaff"
         ],
-        "artiNamaSurat": "Satu barisan",
-        "turun": "Madaniyah",
+        "artiNamaSurat": [
+            "Satu barisan",
+            "Satu barisan",
+            "Satu barisan",
+            "Satu barisan"
+        ],
+        "turun": [
+            "Madaniyah",
+            "Madaniyah",
+            "Madaniyah",
+            "Madaniyah"
+        ],
         "jumlahAyat": "14",
         "kode": "_",
         "ayat": [
@@ -17709,8 +18309,18 @@
             "Al-Jumu'ah",
             "Al-Jumu'ah"
         ],
-        "artiNamaSurat": "Hari Jum’at",
-        "turun": "Madaniyah",
+        "artiNamaSurat": [
+            "Hari Jum’at",
+            "Hari Jum’at",
+            "Hari Jum’at",
+            "Hari Jum’at"
+        ],
+        "turun": [
+            "Madaniyah",
+            "Madaniyah",
+            "Madaniyah",
+            "Madaniyah"
+        ],
         "jumlahAyat": "11",
         "kode": "`",
         "ayat": [
@@ -17777,8 +18387,18 @@
             "Al-Munafiqun",
             "Al-Munafiqun"
         ],
-        "artiNamaSurat": "Orang-Orang Yang Munafik",
-        "turun": "Madaniyah",
+        "artiNamaSurat": [
+            "Orang-Orang Yang Munafik",
+            "Orang-Orang Yang Munafik",
+            "Orang-Orang Yang Munafik",
+            "Orang-Orang Yang Munafik"
+        ],
+        "turun": [
+            "Madaniyah",
+            "Madaniyah",
+            "Madaniyah",
+            "Madaniyah"
+        ],
         "jumlahAyat": "11",
         "kode": "a",
         "ayat": [
@@ -17845,8 +18465,18 @@
             "At-Taghabun",
             "At-Taghabun"
         ],
-        "artiNamaSurat": "Hari dinampakkan kesalahan-kesalahan",
-        "turun": "Madaniyah",
+        "artiNamaSurat": [
+            "Hari dinampakkan kesalahan-kesalahan",
+            "Hari dinampakkan kesalahan-kesalahan",
+            "Hari dinampakkan kesalahan-kesalahan",
+            "Hari dinampakkan kesalahan-kesalahan"
+        ],
+        "turun": [
+            "Madaniyah",
+            "Madaniyah",
+            "Madaniyah",
+            "Madaniyah"
+        ],
         "jumlahAyat": "18",
         "kode": "b",
         "ayat": [
@@ -17934,8 +18564,18 @@
             "At-Thalaq",
             "At-Thalaq"
         ],
-        "artiNamaSurat": "Talak",
-        "turun": "Madaniyah",
+        "artiNamaSurat": [
+            "Talak",
+            "Talak",
+            "Talak",
+            "Talak"
+        ],
+        "turun": [
+            "Madaniyah",
+            "Madaniyah",
+            "Madaniyah",
+            "Madaniyah"
+        ],
         "jumlahAyat": "12",
         "kode": "c",
         "ayat": [
@@ -18005,8 +18645,18 @@
             "At-Tahrim",
             "At-Tahrim"
         ],
-        "artiNamaSurat": "Mengharamkan",
-        "turun": "Madaniyah",
+        "artiNamaSurat": [
+            "Mengharamkan",
+            "Mengharamkan",
+            "Mengharamkan",
+            "Mengharamkan"
+        ],
+        "turun": [
+            "Madaniyah",
+            "Madaniyah",
+            "Madaniyah",
+            "Madaniyah"
+        ],
         "jumlahAyat": "12",
         "kode": "d",
         "ayat": [
@@ -18076,8 +18726,18 @@
             "Al-Mulk",
             "Al-Mulk"
         ],
-        "artiNamaSurat": "Kerajaan",
-        "turun": "Makiyah",
+        "artiNamaSurat": [
+            "Kerajaan",
+            "Kerajaan",
+            "Kerajaan",
+            "Kerajaan"
+        ],
+        "turun": [
+            "Makiyah",
+            "Makiyah",
+            "Makiyah",
+            "Makiyah"
+        ],
         "jumlahAyat": "30",
         "kode": "e",
         "ayat": [
@@ -18201,8 +18861,18 @@
             "Al-Qalam",
             "Al-Qalam"
         ],
-        "artiNamaSurat": "Pena",
-        "turun": "Makiyah",
+        "artiNamaSurat": [
+            "Pena",
+            "Pena",
+            "Pena",
+            "Pena"
+        ],
+        "turun": [
+            "Makiyah",
+            "Makiyah",
+            "Makiyah",
+            "Makiyah"
+        ],
         "jumlahAyat": "52",
         "kode": "f",
         "ayat": [
@@ -18392,8 +19062,18 @@
             "Al-Haqqah",
             "Al-Haqqah"
         ],
-        "artiNamaSurat": "Hari kiamat",
-        "turun": "Makiyah",
+        "artiNamaSurat": [
+            "Hari kiamat",
+            "Hari kiamat",
+            "Hari kiamat",
+            "Hari kiamat"
+        ],
+        "turun": [
+            "Makiyah",
+            "Makiyah",
+            "Makiyah",
+            "Makiyah"
+        ],
         "jumlahAyat": "52",
         "kode": "g",
         "ayat": [
@@ -18583,8 +19263,18 @@
             "Al-Ma'arij",
             "Al-Ma'arij"
         ],
-        "artiNamaSurat": "Tempat naik",
-        "turun": "Makiyah",
+        "artiNamaSurat": [
+            "Tempat naik",
+            "Tempat naik",
+            "Tempat naik",
+            "Tempat naik"
+        ],
+        "turun": [
+            "Makiyah",
+            "Makiyah",
+            "Makiyah",
+            "Makiyah"
+        ],
         "jumlahAyat": "44",
         "kode": "h",
         "ayat": [
@@ -18750,8 +19440,18 @@
             "Nuh",
             "Nuh"
         ],
-        "artiNamaSurat": "Nabi Nuh",
-        "turun": "Makiyah",
+        "artiNamaSurat": [
+            "Nabi Nuh",
+            "Nabi Nuh",
+            "Nabi Nuh",
+            "Nabi Nuh"
+        ],
+        "turun": [
+            "Makiyah",
+            "Makiyah",
+            "Makiyah",
+            "Makiyah"
+        ],
         "jumlahAyat": "28",
         "kode": "i",
         "ayat": [
@@ -18869,8 +19569,18 @@
             "Al-Jin",
             "Al-Jin"
         ],
-        "artiNamaSurat": "Jin",
-        "turun": "Makiyah",
+        "artiNamaSurat": [
+            "Jin",
+            "Jin",
+            "Jin",
+            "Jin"
+        ],
+        "turun": [
+            "Makiyah",
+            "Makiyah",
+            "Makiyah",
+            "Makiyah"
+        ],
         "jumlahAyat": "28",
         "kode": "j",
         "ayat": [
@@ -18988,8 +19698,18 @@
             "Al-Muzzamil",
             "Al-Muzzamil"
         ],
-        "artiNamaSurat": "Orang yang berselimut",
-        "turun": "Makiyah",
+        "artiNamaSurat": [
+            "Orang yang berselimut",
+            "Orang yang berselimut",
+            "Orang yang berselimut",
+            "Orang yang berselimut"
+        ],
+        "turun": [
+            "Makiyah",
+            "Makiyah",
+            "Makiyah",
+            "Makiyah"
+        ],
         "jumlahAyat": "20",
         "kode": "k",
         "ayat": [
@@ -19083,8 +19803,18 @@
             "Al-Muddassir",
             "Al-Muddassir"
         ],
-        "artiNamaSurat": "Orang Yang Berkemul",
-        "turun": "Makiyah",
+        "artiNamaSurat": [
+            "Orang Yang Berkemul",
+            "Orang Yang Berkemul",
+            "Orang Yang Berkemul",
+            "Orang Yang Berkemul"
+        ],
+        "turun": [
+            "Makiyah",
+            "Makiyah",
+            "Makiyah",
+            "Makiyah"
+        ],
         "jumlahAyat": "56",
         "kode": "l",
         "ayat": [
@@ -19286,8 +20016,18 @@
             "Al-Qiyamah",
             "Al-Qiyamah"
         ],
-        "artiNamaSurat": "Kiamat",
-        "turun": "Makiyah",
+        "artiNamaSurat": [
+            "Kiamat",
+            "Kiamat",
+            "Kiamat",
+            "Kiamat"
+        ],
+        "turun": [
+            "Makiyah",
+            "Makiyah",
+            "Makiyah",
+            "Makiyah"
+        ],
         "jumlahAyat": "40",
         "kode": "m",
         "ayat": [
@@ -19441,8 +20181,18 @@
             "Al-Insan",
             "Al-Insan"
         ],
-        "artiNamaSurat": "Manusia",
-        "turun": "Madaniyah",
+        "artiNamaSurat": [
+            "Manusia",
+            "Manusia",
+            "Manusia",
+            "Manusia"
+        ],
+        "turun": [
+            "Madaniyah",
+            "Madaniyah",
+            "Madaniyah",
+            "Madaniyah"
+        ],
         "jumlahAyat": "31",
         "kode": "n",
         "ayat": [
@@ -19569,8 +20319,18 @@
             "Al-Mursalat",
             "Al-Mursalat"
         ],
-        "artiNamaSurat": "Malaikat-Malaikat Yang Diutus",
-        "turun": "Makiyah",
+        "artiNamaSurat": [
+            "Malaikat-Malaikat Yang Diutus",
+            "Malaikat-Malaikat Yang Diutus",
+            "Malaikat-Malaikat Yang Diutus",
+            "Malaikat-Malaikat Yang Diutus"
+        ],
+        "turun": [
+            "Makiyah",
+            "Makiyah",
+            "Makiyah",
+            "Makiyah"
+        ],
         "jumlahAyat": "50",
         "kode": "o",
         "ayat": [
